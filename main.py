@@ -37,7 +37,7 @@ S = "\033[0m"
 print(f"{G}[+] Bot is starting...{S}", flush=True)
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8808888235:AAHuGfaJQ5Dn-a3fecEmhUGfQNxaMl26_VQ"
+BOT_TOKEN = "8808888235:AAE3qlqRjtWYgzC9XkScKu8yp6_7HTAGzrg"
 OWNER_USERNAME = "@CURRENTTTTTTTT"
 OWNER_ID = 6863389453
 
